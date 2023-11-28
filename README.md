@@ -6,17 +6,17 @@ Este repositorio contiene un proyecto que fusiona un backend desarrollado en Nod
 
 ### Clonar el repositorio
 
-git clone <nombredelrepo>
+`git clone <nombredelrepo>`
 
 ### Backend (Node.js con Express)
 
  Una vez clonado el repositorio, dirígete a la raíz del proyecto que es:  \toolbox\ y ejecuta los siguientes comandos para instalar las dependencias del backend:
 
-```npm install```
+`npm install`
 
  Luego, para iniciar el proyecto en modo de desarrollo, utiliza:
 
- npm start
+ `npm start`
 
 Esto pondrá en marcha el servidor Express en el puerto predeterminado.
 
@@ -33,11 +33,11 @@ luego que estes en \toolbox\client
 
 utiliza el comando 
 
- npm install
+ `npm install`
 
 Luego, para arrancar el proyecto en modo de desarrollo, usa:
 
- npm run dev
+ `npm run dev`
 
 Esto iniciará la aplicación React utilizando Vite en modo de desarrollo.
 
@@ -50,7 +50,7 @@ Esto iniciará la aplicación React utilizando Vite en modo de desarrollo.
 
 Para iniciar las pruebas, asegúrate de estar en la raíz del proyecto y ejecuta:
 
-npm test
+`npm test`
 
 **Esto ejecutará las pruebas de las rutas del proyecto.**
 
