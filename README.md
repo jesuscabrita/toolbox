@@ -12,9 +12,7 @@ git clone <nombredelrepo>
 
  Una vez clonado el repositorio, dirígete a la raíz del proyecto que es:  \toolbox\ y ejecuta los siguientes comandos para instalar las dependencias del backend:
 
-```bash
-npm install
-```
+```npm install```
 
  Luego, para iniciar el proyecto en modo de desarrollo, utiliza:
 
