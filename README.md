@@ -6,7 +6,7 @@ Este repositorio contiene un proyecto que fusiona un backend desarrollado en Nod
 
 ### Clonar el repositorio
 
-`git clone <nombredelrepo>`
+`git clone git@github.com:jesuscabrita/toolbox.git`
 
 ### Backend (Node.js con Express)
 
