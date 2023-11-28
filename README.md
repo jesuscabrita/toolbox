@@ -1,6 +1,6 @@
 # Instalación y Configuración de Toolbox
 
-Este repositorio contiene un proyecto que fusiona un backend desarrollado en Node.js con Express y un frontend en React utilizando Vite.
+Este repositorio contiene un proyecto que fusiona un backend desarrollado en Node.js con Express y un frontend en React.
 
 ## Pasos de Instalación
 
@@ -23,7 +23,7 @@ Esto pondrá en marcha el servidor Express en el puerto predeterminado.
 **Ejecutara el servidor**
 
 
-### Frontend (React con Vite)
+### Frontend (React)
 
 **Instalar dependencias del frontend**
 
